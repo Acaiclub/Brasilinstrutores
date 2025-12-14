@@ -1,0 +1,6 @@
+
+{
+  "name": "AutoConecta - Instrutores de Trânsito",
+  "description": "Uma plataforma moderna para conectar alunos a instrutores de direção independentes, com aulas em vídeo e assistente de IA para legislação brasileira.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
